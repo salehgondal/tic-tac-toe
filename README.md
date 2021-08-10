@@ -8,3 +8,6 @@ This is a 2 player game that will be played on the command line. It is a standar
 4. The game will be declared a draw, when there is no winner possible.
 5. The scoreboard will reset when the application is quit.
 6. Players can quit the game at any time by pressing the "q" key.
+
+
+To play the game, please download the "tic-tac-toe.py" file to your system. Then use the command prompt to navigate to the folder where the file is downloaded. Then execute the file by typing `tic-tac-toe.py`
